@@ -44,7 +44,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    height: 150vh;
+    height: 160px;
     background-image: url('E:\Downloads\landing page\img\hero.jpg');
     background-size: cover;
     display: flex;
